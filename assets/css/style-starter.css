@@ -15244,11 +15244,7 @@ nav ul li a:hover {
   visibility: hidden;
   opacity: 0;
   z-index: 99;
-  background: linear-gradient(
-    75deg,
-    rgb(22 37 103 / 94%) 10%,
-    rgb(230 2 100 / 90%)
-  );
+  background: linear-gradient(75deg, rgb(22 37 103 / 94%) 10%, #ff6600 120%);
   box-shadow: 1px 1px 4px 0 rgba(0, 0, 0, 0.85);
   height: 100vh;
 }
