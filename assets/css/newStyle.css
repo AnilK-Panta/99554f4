@@ -13,3 +13,12 @@
 #Layer_1 {
   width: 200px;
 }
+.service-augmentation li,
+.service-software li,
+.service-digital li {
+  list-style: inside !important;
+}
+.service-image {
+  height: 200px;
+  overflow: hidden;
+}
