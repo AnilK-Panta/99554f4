@@ -16248,8 +16248,8 @@ h3.title-big {
   height: 100%;
   background: linear-gradient(
     75deg,
-    rgb(22 37 103 / 90%) 10%,
-    rgb(230 2 100 / 69%)
+    rgb(22 37 103 / 84%) 10%,
+    rgba(255, 102, 0, 0.37)
   );
   z-index: -1;
 }
